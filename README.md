@@ -143,6 +143,7 @@ Para este puzzle se busca confirmar si una palabra es o no un palíndromo, es de
 <p>
 limewood_experimento
 <p>
+    
 ### Módulo C:
 #### 0_fragmentReconstruction
 
