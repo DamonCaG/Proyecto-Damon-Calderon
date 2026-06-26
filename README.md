@@ -1,7 +1,7 @@
 # Proyecto de Introducción a la computación - Damon Calderón.
 ## Caso Limewood
 <p>
-El proyecto actual consiste en un escape room dividido principalmente entre 4 módulos de trabajo, cada uno con sus propios 4 puzzles por resolver para acceder a una clave obtenida de cada módulo. A continuación se mostrarán cada una de las soluciones para cada puzzle de cada módulo.
+El proyecto actual consiste en un escape room dividido principalmente entre 4 módulos de trabajo, cada uno con sus propios 4 puzzles por resolver para acceder a una clave obtenida de cada módulo. A continuación se mostrarán cada una de las soluciones para cada puzzle de cada módulo. Cada módulo tiene asignada una rama específica.
 <p>
 
 ### Módulo A:
